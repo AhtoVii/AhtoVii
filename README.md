@@ -1,5 +1,5 @@
 <h1 align="center">Hei 👋 Nimeni on Ahto Viirret</h1>
-<h3 align="center">Opiskelen sovellusohjelmointia <a href="https://www.gradia.fi/">Gradialla</a> Viitaniemessä.</h3>
+<h3 align="center">Opiskelen ohjelmistokehittäjäksi <a href="https://www.gradia.fi/">Gradialla</a> Viitaniemessä.</h3>
 
 - Mitä opettelen/opiskelen tällä hetkellä:
 

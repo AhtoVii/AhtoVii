@@ -1,21 +1,46 @@
-<h1 align="center">Hei 👋 Nimeni on Ahto Viirret</h1>
-<h3 align="center">Opiskelen ohjelmistokehittäjäksi <a href="https://www.gradia.fi/">Gradialla</a> Viitaniemessä.</h3>
+<h1 align="center">Hei, nimeni on Ahto Viirret 👋</h1>
+<h3 align="center">Opiskelen ohjelmistokehittäjäksi <a href="https://www.gradia.fi/" target="_blank">Gradialla</a> Viitaniemessä.</h3>
 
-- Mitä opettelen/opiskelen tällä hetkellä:
+---
 
-  **SQL**
+### 📚 Mitä opiskelen tällä hetkellä
 
-- Sähköpostini: **ahto.vii@gmail.com**
-- Koulusähköpostini: **gr302661@gradia.fi**
-- Tietoa minusta: **Olen 17-vuotias ammattikouluopiskelija Jyväskylästä.**
+- **SQL**
 
+---
 
+### ℹ️ Tietoa minusta
 
-<h3 align="left">Osaamiseni:
+- 🎓 Olen 17-vuotias ammattikouluopiskelija Jyväskylästä.
+- 📫 Yhteydenotto:
+  - Sähköposti: **ahto.vii@gmail.com**
+  - Koulusähköposti: **gr302661@gradia.fi**
+
+---
+
+### 🛠️ Osaaminen
+
+#### 💻 Ohjelmointikielet ja työkalut
+
 <p align="left">
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
 </p>
 
-<h3 align="left">💻 Ohjelmointikielet ja muut työkalut:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahtovii&show_icons=true&locale=en" alt="ahtovii" /></p>
+### 📊 GitHub-tilastot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahtovii&show_icons=true&locale=en" alt="ahtovii GitHub stats" />
+</p>

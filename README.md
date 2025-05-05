@@ -1,11 +1,13 @@
 <h1 align="center">Hei 👋 Nimeni on Ahto Viirret</h1>
-<h3 align="center">Opiskelen sovellusohjelmointia Gradialla Viitaniemessä.</h3>
+<h3 align="center">Opiskelen sovellusohjelmointia <a href="https://www.gradia.fi/">Gradialla</a> Viitaniemessä.</h3>
 
-- Mitä opettelen/opiskelen tällä hetkellä: **SQL**
+- Mitä opettelen/opiskelen tällä hetkellä:
+
+  **SQL**
 
 - Sähköpostini: **ahto.vii@gmail.com**
 - Koulusähköpostini: **gr302661@gradia.fi**
-- Tietoa minusta **Olen 17-vuotias ammattikouluopiskelija Jyväskylästä.**
+- Tietoa minusta: **Olen 17-vuotias ammattikouluopiskelija Jyväskylästä.**
 
 
 

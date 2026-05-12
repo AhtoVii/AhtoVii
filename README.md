@@ -5,13 +5,14 @@
 
 ### 📚 Mitä opiskelen tällä hetkellä
 
-- **SQL**
+- **Rajapinnat**
+- **Tietokannat**
 
 ---
 
 ### ℹ️ Tietoa minusta
 
-- 🎓 Olen 17-vuotias ammattikouluopiskelija Jyväskylästä.
+- 🎓 Olen 18-vuotias ammattikouluopiskelija Jyväskylästä.
 - 📫 Yhteydenotto:
   - Sähköposti: **ahto.vii@gmail.com**
   - Koulusähköposti: **gr302661@gradia.fi**

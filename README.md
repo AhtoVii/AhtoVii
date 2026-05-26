@@ -64,7 +64,3 @@
   - 🏫 Koulusähköposti: [gr302661@gradia.fi](mailto:gr302661@gradia.fi)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OMAN_GITHUB_KÄYTTÄJÄNIMESI&show_icons=true&theme=visual_studio_code" alt="GitHub Stats" />
-</p>

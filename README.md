@@ -76,8 +76,6 @@
 |------|--------|
 | 🎮 **Pygame** | Pelinkehitystä Pythonilla: grafiikka, tapahtumat ja pelisilmukat |
 | 🔧 **C-kieli** | Matalan tason ohjelmoinnin perusteet |
-| 🌐 **Rajapinnat (APIs)** | Integraatiot ja taustajärjestelmät |
-| 💾 **Tietokannat** | Rakenteet, kyselyt ja tiedonhallinta |
 | 🎓 **JAMK väyläopinnot** | Korkeakouluopintoja ammattikoulun rinnalla |
 
 ---

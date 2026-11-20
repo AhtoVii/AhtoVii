@@ -10,10 +10,6 @@
   <img src="https://img.shields.io/badge/Sijainti-Jyväskylä-blue?style=for-the-badge" alt="Jyväskylä">
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=AhtoVii&label=Profiilin+katselut&color=orange&style=for-the-badge" alt="Profile views" />
-</p>
-
 </div>
 
 ---
